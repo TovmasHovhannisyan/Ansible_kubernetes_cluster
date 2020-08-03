@@ -15,5 +15,7 @@
 
 2. To fill the needed environment variable in the "all" file from the "group_vars" directory.  
 
-3. ``` 
-      ansible-playbook  -i hosts playbook.yaml
+3. Run this command. 
+``` 
+ansible-playbook  -i hosts playbook.yaml
+```
